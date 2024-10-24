@@ -1,15 +1,14 @@
-.mar{
-    margin-top: 50px;
-}
 img{
     height: 300px;
 }
 .card{
-    height: 550px;
+    height: auto;
 }
-.card-body{
-        height: 60px;
-    }
 .card-text{
-    height: 20px;
-}    
+    height: auto;
+}
+.nht{
+    height: 500px;
+    font-weight: 400px;
+    padding: 20px;
+}
